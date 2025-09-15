@@ -1,0 +1,73 @@
+{
+  "id": 3,
+  "verse_number": 3,
+  "chapter_number": 1,
+  "slug": "chapter-1-verse-3",
+  "text": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्। व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता",
+  "transliteration": "paśhyaitāṁ pāṇḍu-putrāṇām āchārya mahatīṁ chamūm vyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā",
+  "word_meanings": "paśhya—behold; etām—this; pāṇḍu-putrāṇām—of the sons of Pandu; āchārya—respected teacher; mahatīm—mighty; chamūm—army; vyūḍhām—arrayed in a military formation; drupada-putreṇa—son of Drupad, Dhrishtadyumna; tava—by your; śhiṣhyeṇa—disciple; dhī-matā—intelligent\n",
+  "translations": [
+    {
+      "id": 15,
+      "description": "हे आचार्य! आपके बुद्धिमान् शिष्य द्रुपदपुत्र धृष्टद्युम्न के द्वारा व्यूहरचना से खड़ी की हुई पाण्डवों की इस बड़ी भारी सेना को देखिये",
+      "author_name": "Swami Ramsukhdas",
+      "language": "hindi"
+    },
+    {
+      "id": 16,
+      "description": "हे आचार्य! आपके बुद्धिमान शिष्य द्रुपदपुत्र (धृष्टद्द्युम्न) द्वारा व्यूहाकार खड़ी की गयी पाण्डु पुत्रों की इस महती सेना को देखिये।",
+      "author_name": "Swami Tejomayananda",
+      "language": "hindi"
+    },
+    {
+      "id": 17,
+      "description": "Behold, O teacher, this mighty army of the Pandavas, arrayed by the son of Drupada, your intelligent disciple.",
+      "author_name": "Swami Adidevananda",
+      "language": "english"
+    },
+    {
+      "id": 18,
+      "description": "O teacher, behold this vast army of the sons of Pandu, arrayed for battle by the intelligent disciple of Drupada.",
+      "author_name": "Swami Gambirananda",
+      "language": "english"
+    },
+    {
+      "id": 19,
+      "description": "Behold, O Teacher! This mighty army of the sons of Pandu, arrayed by the son of Drupada, thy wise disciple.",
+      "author_name": "Swami Sivananda",
+      "language": "english"
+    },
+    {
+      "id": 20,
+      "description": "O teacher! Behold this mighty army of the sons of Pandu, marshaled in a military array by Drupada's son, your intelligent pupil.",
+      "author_name": "Dr. S. Sankaranarayan",
+      "language": "english"
+    },
+    {
+      "id": 21,
+      "description": "Revered Father! Behold this mighty host of the Pandavas, paraded by the son of King Drupada, your wise disciple.",
+      "author_name": "Shri Purohit Swami",
+      "language": "english"
+    }
+  ],
+  "commentaries": [
+    {
+      "id": 48,
+      "description": "पश्य behold? एताम् this? पाण्डुपुत्राणाम् of the sons of Pandu? आचार्य O Teacher? महतीम् great? चमूम् army? व्यूढाम् arrayed? द्रुपदपुत्रेण son of Drupada? तव शिष्येण by your disciple? धीमता wise.No Commentary.",
+      "author_name": "Swami Sivananda",
+      "language": "english"
+    },
+    {
+      "id": 33,
+      "description": "। व्याख्या-'आचार्य' द्रोणके लिये 'आचार्य' सम्बोधन देनेमें दुर्योधनका यह भाव मालूम देता है कि आप हम सबके-कौरवों और पाण्डवों के आचार्य हैं। शस्त्रविद्या सिखानेवाले होनेसे आप सबके गुरु हैं। इसलिये आपके मनमें किसीका पक्ष या आग्रह नहीं होना चाहिये। 'तव शिष्येण धीमता'-इन पदोंका प्रयोग करनेमें दुर्योधनका भाव यह है कि आप इतने सरल हैं कि अपने मारनेके लिये पैदा होनेवाले धृष्टद्युम्नको भी आपने अस्त्र-शस्त्रकी विद्या सिखायी है; और वह आपका शिष्य धृष्टद्युम्न इतना बुद्धिमान है कि उसने आपको मारनेके लिये आपसे ही अस्त्र-शस्त्रकी विद्या सीखी है।",
+      "author_name": "Swami Ramsukhdas",
+      "language": "hindi"
+    },
+    {
+      "id": 34,
+      "description": "वास्तव में दुर्योधन की यह मूर्खता है कि वह द्रोणाचार्य को पाण्डवों की सैन्य रचना के विषय में विस्तार से बताये। आगे हम देखेंगे कि वह आवश्यकता से अधिक बातें करता है जो युद्ध के परिणाम के विषय में उसके संदेह का स्पष्ट लक्षण है।",
+      "author_name": "Swami Chinmayananda",
+      "language": "hindi"
+    }
+  ]
+}
