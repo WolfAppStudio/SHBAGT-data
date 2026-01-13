@@ -2,7 +2,7 @@
   "meta": {
     "dataset": "SHBAGT Bhagavad Gita",
     "version": 1,
-    "generated_at": "2025-09-15T14:30:31Z",
+    "generated_at": "2025-09-15T14: 30: 31Z",
     "license": "CC-BY (unspecified, please update if needed)",
     "source": "Provided dataset",
     "chapters_count": 18
@@ -43,7 +43,7 @@
       },
       "summary": {
         "en": "The second chapter of the Bhagavad Gita is \"Sankhya Yoga\". This is the most important chapter of the Bhagavad Gita as Lord Krishna condenses the teachings of the entire Gita in this chapter. This chapter is the essence of the entire Gita. \n\"Sankhya Yoga\" can be categorized into 4 main topics - \n1. Arjuna completely surrenders himself to Lord Krishna and accepts his position as a disciple and Krishna as his Guru. He requests Krishna to guide him on how to dismiss his sorrow.\n2. Explanation of the main cause of all grief, which is ignorance of the true nature of Self.\n3. Karma Yoga - the discipline of selfless action without being attached to its fruits.\n4. Description of a Perfect Man - One whose mind is steady and one-pointed.",
-        "hi": "भगवद गीता का दूसरा अध्याय सांख्य योग है। यह अध्याय भगवद गीता का सबसे महत्वपूर्ण अध्याय है क्योंकि इसमें भगवान श्रीकृष्ण संपूर्ण गीता की शिक्षाओं को संघनित करते हैं। यह अध्याय पूरी गीता का सार है। सांख्य योग को 4 मुख्य विषयों में वर्गीकृत किया जा सकता है - १. अर्जुन ने पूरी तरह से भगवान कृष्ण को आत्मसमर्पण किया और उन्हें अपने गुरु के रूप में स्वीकार किया। २. सभी दु:खों के मुख्य कारणों की व्याख्या, जो स्व की वास्तविक प्रकृति की अज्ञानता है। ३. कर्मयोग - अपने कर्मों के फलों से जुड़े बिना नि:स्वार्थ क्रिया का अनुशासन। ४. एक परिपूर्ण मनुष्य का विवरण - जिसका मस्तिष्क स्थिर और एक-इशारा है।"
+        "hi": "भगवद गीता का दूसरा अध्याय सांख्य योग है। यह अध्याय भगवद गीता का सबसे महत्वपूर्ण अध्याय है क्योंकि इसमें भगवान श्रीकृष्ण संपूर्ण गीता की शिक्षाओं को संघनित करते हैं। यह अध्याय पूरी गीता का सार है। सांख्य योग को 4 मुख्य विषयों में वर्गीकृत किया जा सकता है - १. अर्जुन ने पूरी तरह से भगवान कृष्ण को आत्मसमर्पण किया और उन्हें अपने गुरु के रूप में स्वीकार किया। २. सभी दु: खों के मुख्य कारणों की व्याख्या, जो स्व की वास्तविक प्रकृति की अज्ञानता है। ३. कर्मयोग - अपने कर्मों के फलों से जुड़े बिना नि: स्वार्थ क्रिया का अनुशासन। ४. एक परिपूर्ण मनुष्य का विवरण - जिसका मस्तिष्क स्थिर और एक-इशारा है।"
       },
       "transliteration": "Sānkhya Yog",
       "path": "data/verses/chapter_2/"
@@ -203,7 +203,7 @@
       },
       "summary": {
         "en": "The tenth chapter of the Bhagavad Gita is \"Vibhooti Yoga\". In this chapter, Krishna reveals Himself as the cause of all causes. He describes His various manifestations and opulences in order to increase Arjuna's Bhakti. Arjuna is fully convinced of Lord's paramount position and proclaims him to be the Supreme Personality. He prays to Krishna to describe more of His divine glories which are like nectar to hear.",
-        "hi": "भगवद गीता का दसवां अध्याय विभूतियोग है। इस अध्याय में, कृष्ण स्वयं को सभी कारणों के कारण बताते हैं। अर्जुन की भक्ति को बढ़ाने के लिए वे अपने विभिन्न अवतारों और प्रतिष्ठानों का वर्णन करते हैं। अर्जुन पूरी तरह से भगवान के सर्वोच्च पद से आश्वस्त हैं और उन्हें सर्वोच्च व्यक्तित्व के रूप में घोषित करते हैं। वे कृष्ण से प्रार्थना करते हैं कि वे अपनी अन्य दिव्य महिमाओं के बारेमे बताएं जो कि सुनने में अमृत सामान हैं।        "
+        "hi": "भगवद गीता का दसवां अध्याय विभूतियोग है। इस अध्याय में, कृष्ण स्वयं को सभी कारणों के कारण बताते हैं। अर्जुन की भक्ति को बढ़ाने के लिए वे अपने विभिन्न अवतारों और प्रतिष्ठानों का वर्णन करते हैं। अर्जुन पूरी तरह से भगवान के सर्वोच्च पद से आश्वस्त हैं और उन्हें सर्वोच्च व्यक्तित्व के रूप में घोषित करते हैं। वे कृष्ण से प्रार्थना करते हैं कि वे अपनी अन्य दिव्य महिमाओं के बारेमे बताएं जो कि सुनने में अमृत सामान हैं।"
       },
       "transliteration": "Vibhūti Yog",
       "path": "data/verses/chapter_10/"
@@ -263,7 +263,7 @@
       },
       "summary": {
         "en": "The thirteenth chapter of the Bhagavad Gita is \"Ksetra Ksetrajna Vibhaaga Yoga\". The word \"kshetra\" means \"the field\", and the \"kshetrajna\" means \"the knower of the field\". We can think of our material body as the field and our immortal soul as the knower of the field. In this chapter, Krishna discriminates between the physical body and the immortal soul. He explains that the physical body is temporary and perishable whereas the soul is permanent and eternal. The physical body can be destroyed but the soul can never be destroyed. The chapter then describes God, who is the Supreme Soul. All the individual souls have originated from the Supreme Soul. One who clearly understands the difference between the body, the Soul and the Supreme Soul attains the realization of Brahman.",
-        "hi": "भगवद गीता का तेरवाह अध्याय क्षेत्र-क्षेत्रज्ञविभागयोग है। क्षेत्र शब्द का मतलब भूमि और क्षेत्ररक्षण का मतलब क्षेत्र का जानकार है। हमारा भौतिक शरीर क्षेत्र के सामान है और हमारी अमर आत्मा क्षेत्र के जानकार के सामान है। इस अध्याय में, कृष्ण भौतिक शरीर और अमर आत्मा के बीच भेद करते हैं। वह बताते हैं कि भौतिक शरीर अस्थायी और विनाशकारी है जबकि आत्मा स्थायी और शाश्वत है। भौतिक शरीर नष्ट हो सकता है लेकिन आत्मा कभी भी नष्ट नहीं हो सकती। यह अध्याय फिर भगवान का वर्णन करता है, जो की सर्वोच्च आत्मा हैं। सभी व्यक्तिगत आत्माएं सर्वोच्च आत्मा से उत्पन्न हुई हैं। जो स्पष्ट रूप से शरीर, आत्मा और सर्वोच्च आत्मा के बीच अंतर को समझ लेता है वह परमात्मा को प्राप्त कर लेता है।        "
+        "hi": "भगवद गीता का तेरवाह अध्याय क्षेत्र-क्षेत्रज्ञविभागयोग है। क्षेत्र शब्द का मतलब भूमि और क्षेत्ररक्षण का मतलब क्षेत्र का जानकार है। हमारा भौतिक शरीर क्षेत्र के सामान है और हमारी अमर आत्मा क्षेत्र के जानकार के सामान है। इस अध्याय में, कृष्ण भौतिक शरीर और अमर आत्मा के बीच भेद करते हैं। वह बताते हैं कि भौतिक शरीर अस्थायी और विनाशकारी है जबकि आत्मा स्थायी और शाश्वत है। भौतिक शरीर नष्ट हो सकता है लेकिन आत्मा कभी भी नष्ट नहीं हो सकती। यह अध्याय फिर भगवान का वर्णन करता है, जो की सर्वोच्च आत्मा हैं। सभी व्यक्तिगत आत्माएं सर्वोच्च आत्मा से उत्पन्न हुई हैं। जो स्पष्ट रूप से शरीर, आत्मा और सर्वोच्च आत्मा के बीच अंतर को समझ लेता है वह परमात्मा को प्राप्त कर लेता है।"
       },
       "transliteration": "Kṣhetra Kṣhetrajña Vibhāg Yog",
       "path": "data/verses/chapter_13/"
@@ -302,8 +302,8 @@
         "en": "Purushottama Yoga"
       },
       "summary": {
-        "en": "The fifteenth chapter of the Bhagavad Gita is \"Purushottama Yoga\". In Sanskrit, Purusha means the \"All-pervading God\", and Purushottam means the timeless & transcendental aspect of God.        Krishna reveals that the purpose of this Transcendental knowledge of the God is to detach ourselves from the bondage of the material world and to understand Krishna as the Supreme Divine Personality, who is the eternal controller and sustainer of the world. One who understands this Ultimate Truth surrenders to Him and engages in His devotional service.",
-        "hi": "भगवद गीता का पंद्रहवा अध्याय पुरुषोत्तमयोग है। संस्कृत में, पुरूष का मतलब सर्वव्यापी भगवान है, और पुरुषोत्तम का मतलब है ईश्वर का कालातीत और पारस्परिक पहलू। कृष्णा बताते हैं कि ईश्वर के इस महान ज्ञान का उद्देश्य भौतिक संसार के बंधन से खुद को अलग करना है और कृष्ण को सर्वोच्च दिव्य व्यक्तित्व के रूप में समझना है, जो विश्व के शाश्वत नियंत्रक और निर्वाहक हैं। जो इस परम सत्य को समझता है वह प्रभु को समर्पण करता है और उनकी भक्ति सेवा में संलग्न हो जाता है।        "
+        "en": "The fifteenth chapter of the Bhagavad Gita is \"Purushottama Yoga\". In Sanskrit, Purusha means the \"All-pervading God\", and Purushottam means the timeless & transcendental aspect of God. Krishna reveals that the purpose of this Transcendental knowledge of the God is to detach ourselves from the bondage of the material world and to understand Krishna as the Supreme Divine Personality, who is the eternal controller and sustainer of the world. One who understands this Ultimate Truth surrenders to Him and engages in His devotional service.",
+        "hi": "भगवद गीता का पंद्रहवा अध्याय पुरुषोत्तमयोग है। संस्कृत में, पुरूष का मतलब सर्वव्यापी भगवान है, और पुरुषोत्तम का मतलब है ईश्वर का कालातीत और पारस्परिक पहलू। कृष्णा बताते हैं कि ईश्वर के इस महान ज्ञान का उद्देश्य भौतिक संसार के बंधन से खुद को अलग करना है और कृष्ण को सर्वोच्च दिव्य व्यक्तित्व के रूप में समझना है, जो विश्व के शाश्वत नियंत्रक और निर्वाहक हैं। जो इस परम सत्य को समझता है वह प्रभु को समर्पण करता है और उनकी भक्ति सेवा में संलग्न हो जाता है।"
       },
       "transliteration": "Puruṣhottam Yog",
       "path": "data/verses/chapter_15/"
@@ -343,7 +343,7 @@
       },
       "summary": {
         "en": "The seventeenth chapter of the Bhagavad Gita is \"Sraddhatraya Vibhaga Yoga\". In this chapter, Krishna describes the three types of faith corresponding to the three modes of the material nature. Lord Krishna further reveals that it is the nature of faith that determines the quality of life and the character of living entities. Those who have faith in passion and ignorance perform actions that yield temporary, material results while those who have faith in goodness perform actions in accordance with scriptural instructions and hence their hearts get further purified.",
-        "hi": "भगवद गीता का सत्रहवा अध्याय श्रद्धात्रयविभागयोग है। इस अध्याय में, कृष्ण भौतिक प्रकृति के तीन गुणों से संबंधित तीन प्रकार के विश्वासों का वर्णन करते हैं। भगवान कृष्ण आगे बताते हैं कि यह विश्वास की प्रकृति है जो जीवन की गुणवत्ता और जीवित संस्थाओं के चरित्र को निर्धारित करती है। जो लोग लालसा और अज्ञानता में विश्वास रखते हैं, वे ऐसे कार्य करते हैं जो कि अस्थायी और भौतिक फल देते हैं परन्तु जो लोग अच्छाई में विश्वास रखते हैं वे शास्त्रपूर्ण निर्देशों के अनुसार कार्य करते हैं और इसलिए उन्हें स्थायी और अधिक प्रवीण फल प्राप्त होते हैं जो मन को और भी शुद्ध करते हैं।        "
+        "hi": "भगवद गीता का सत्रहवा अध्याय श्रद्धात्रयविभागयोग है। इस अध्याय में, कृष्ण भौतिक प्रकृति के तीन गुणों से संबंधित तीन प्रकार के विश्वासों का वर्णन करते हैं। भगवान कृष्ण आगे बताते हैं कि यह विश्वास की प्रकृति है जो जीवन की गुणवत्ता और जीवित संस्थाओं के चरित्र को निर्धारित करती है। जो लोग लालसा और अज्ञानता में विश्वास रखते हैं, वे ऐसे कार्य करते हैं जो कि अस्थायी और भौतिक फल देते हैं परन्तु जो लोग अच्छाई में विश्वास रखते हैं वे शास्त्रपूर्ण निर्देशों के अनुसार कार्य करते हैं और इसलिए उन्हें स्थायी और अधिक प्रवीण फल प्राप्त होते हैं जो मन को और भी शुद्ध करते हैं।"
       },
       "transliteration": "Śhraddhā Traya Vibhāg Yog",
       "path": "data/verses/chapter_17/"
